@@ -1,8 +1,8 @@
 # VGAX Library for Arduino UNO
 
-COPYRIGHT (C) 2014 Sandro Maffiodo  
-[smaffer@gmail.com](mailto:smaffer@gmail.com)  
-[http://www.assezeta.com/sandromaffiodo](http://www.assezeta.com/sandromaffiodo)
+COPYRIGHT (C) 2020 Muhammad Tahir Hassan  
+[engr.tahirrr@outlook.com](mailto:engr.tahirrr@outlook.com)  
+[http://www.outh.ml](http://www.outh.ml)
 
 ![screenshot0](docs/screenshot3.jpg)
 
